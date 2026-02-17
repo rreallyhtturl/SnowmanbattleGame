@@ -4,7 +4,7 @@ JDK-25<br>
 ```bash
 java -version
 ```
-<h2>Такой:<br>![img.png](img.png)</h2>
+<h2>Такой: img.png<br>![img.png](img.png)</h2>
 
 
 
